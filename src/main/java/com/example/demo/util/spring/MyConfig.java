@@ -2,7 +2,6 @@ package com.example.demo.util.spring;
 
 import com.example.demo.service.UserService;
 import com.example.demo.service.impl.UserServiceImpl;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
